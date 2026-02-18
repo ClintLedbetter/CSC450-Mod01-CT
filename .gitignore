@@ -1,0 +1,7 @@
+Debug/
+Release/
+Binaries/
+*.o
+*.obj
+*.exe
+*.out
